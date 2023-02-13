@@ -3,4 +3,8 @@
   target: "/alt-shift-festival/"
   kind: page
   children: []
+- title: Germinar-t Residency
+  target: "/germinar-t-residency/"
+  kind: page
+  children: []
 
