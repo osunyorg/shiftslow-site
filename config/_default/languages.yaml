@@ -5,3 +5,7 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  permalinks:
+    posts: /news/:year-:month-:day-:slug/
+    persons: /team/:slug/
+    authors: /team/:slug/news/
