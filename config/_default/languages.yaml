@@ -11,6 +11,7 @@ en:
   permalinks:
     posts: /news/:year-:month-:day-:slug/
     persons: /team/:slug/
+    persons_categories: /team/:slug/
     authors: /team/:slug/news/
   taxonomies:
     administrator: administrators
@@ -18,6 +19,8 @@ en:
     diploma: diplomas
     events_category: events_categories
     location: locations
+    organizations_category: organizations_categories
+    persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
     researcher: researchers
