@@ -1,4 +1,10 @@
 theme: osuny
-paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
+pagination:
+  pagerSize: 30
+params:
+  summary:
+    position: hero
+  breadcrumb:
+    position: after-hero
