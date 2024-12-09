@@ -7,7 +7,8 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
+    contact_details:
+
   permalinks:
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
