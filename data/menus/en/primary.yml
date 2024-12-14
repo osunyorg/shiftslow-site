@@ -5,20 +5,24 @@ items:
   target: "/alt-shift-festival/"
   kind: page
   children: []
+  path: "/pages/alt-shift-festival"
   file: content/en/pages/alt-shift-festival/_index.html
 - title: Germinar-t Residency
   target: "/germinar-t-residency/"
   kind: page
   children: []
+  path: "/pages/germinar-t-residency"
   file: content/en/pages/germinar-t-residency/_index.html
 - title: News
   target: "/news/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 - title: Donate
   target: "/donate/"
   kind: page
   children: []
+  path: "/pages/donate"
   file: content/en/pages/donate/_index.html
 
