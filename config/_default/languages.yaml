@@ -10,6 +10,7 @@ en:
     contact_details:
 
   permalinks:
+    pages_categories: /:slug/
     posts: /news/:year-:month-:day-:slug/
     posts_categories: /news/:slug/
     persons: /team/:slug/
@@ -22,6 +23,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
