@@ -2,6 +2,11 @@
 
 baseURL: https://shiftslow-site.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 94033510-536b-409b-b579-d854a8f09c6e
+
 ## LANGUAGE
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
