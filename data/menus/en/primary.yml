@@ -1,14 +1,14 @@
 ---
 title: Primary
 items:
-- title: Alt Shift Festival
+- title: Collective
   target: "/alt-shift-festival/"
   kind: page
   new_tab: false
   children: []
   path: "/pages/alt-shift-festival"
   file: content/en/pages/alt-shift-festival/_index.html
-- title: Germinar-t Residency
+- title: Projects
   target: "/germinar-t-residency/"
   kind: page
   new_tab: false
