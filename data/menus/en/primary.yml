@@ -2,17 +2,21 @@
 title: Primary
 items:
 - title: Collective
+  slug: collective
   target: "/alt-shift-festival/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/alt-shift-festival"
   file: content/en/pages/alt-shift-festival/_index.html
 - title: Projects
+  slug: projects
   target: "/germinar-t-residency/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/germinar-t-residency"
   file: content/en/pages/germinar-t-residency/_index.html
 
