@@ -11,3 +11,76 @@
     X-Frame-Options = "SAMEORIGIN"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
+
+[[redirects]]
+  from = "/germinar-t/"
+  to = "/germinar-t-residency/germinar-t/"
+
+[[redirects]]
+  from = "/arratz/"
+  to = "/alt-shift-festival/arratz/"
+
+[[redirects]]
+  from = "/actualites/"
+  to = "/news/"
+
+[[redirects]]
+  from = "/naomi/"
+  to = "/alt-shift-festival/naomi/"
+
+[[redirects]]
+  from = "/lara-stammen/"
+  to = "/team/lara-stammen/"
+
+[[redirects]]
+  from = "/alt-shift/"
+  to = "/germinar-t-residency/alt-shift/"
+
+[[redirects]]
+  from = "/guardare-indietro-al-futuro/"
+  to = "/germinar-t-residency/guardare-indietro-al-futuro/"
+
+[[redirects]]
+  from = "/catarina/"
+  to = "/alt-shift-festival/catarina/"
+
+[[redirects]]
+  from = "/equipe-editoriale/"
+  to = "/team/equipe-editoriale/"
+
+[[redirects]]
+  from = "/alt-shift-festival/germinar-t/"
+  to = "/germinar-t-residency/germinar-t/"
+
+[[redirects]]
+  from = "/lara-stammen/news/"
+  to = "/team/lara-stammen/news/"
+
+[[redirects]]
+  from = "/trust-the-protest/"
+  to = "/germinar-t-residency/trust-the-protest/"
+
+[[redirects]]
+  from = "/equipe/"
+  to = "/team/"
+
+[[redirects]]
+  from = "/vlio/"
+  to = "/alt-shift-festival/vlio/"
+
+[[redirects]]
+  from = "/equipe/equipe-editoriale/"
+  to = "/team/equipe-editoriale/"
+
+[[redirects]]
+  from = "/organisations/"
+  to = "/partners/"
+
+[[redirects]]
+  from = "/emma/"
+  to = "/alt-shift-festival/emma/"
+
+[[redirects]]
+  from = "/elena/"
+  to = "/alt-shift-festival/elena/"
+
